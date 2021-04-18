@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Rodrigue Ndzana 🧞‍♂️
+
+I’m part of CodeYourFuture SouthAfrica 😀
+I love chatting and learning about web performance, accessibility, how to be a better developer, and open-source in general. If you want to chat, get in touch! 💖
+
+
+## Find me around the web 🕵🏾‍♀️
+- My linkedIn site is at [linkedIn](www.linkedin.com/in/rodrigue-ndzana) 🏡
+
+
+
+
