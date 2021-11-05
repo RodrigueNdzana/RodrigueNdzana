@@ -7,14 +7,6 @@
 <h3 align="left">A passionate Full-Stack Developer originally from Cameroon, currently living in South Africa.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguendzana&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguendzana"/> </p>
-
-<br />
-<br />
-<p align="left" style="margin:4rem"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriguendzana" alt="rodriguendzana" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web development**
 
 - 💬 Ask me about **anything around the area of development**
