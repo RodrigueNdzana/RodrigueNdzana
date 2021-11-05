@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rodrigue Ndzana  <img src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=790b761149dd3164646538327db8756d8f90fb2400e623ff&rid=giphy.gif&ct=g" alt="Code Tag" style ="width:15%"/> </h1> 
+<div>
+  <h1 align="center">Hi 👋, I'm Rodrigue Ndzana  </h1>
+ <img src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=790b761149dd3164646538327db8756d8f90fb2400e623ff&rid=giphy.gif&ct=g" alt="Code Tag" style ="width:15%"/>
+</div>
 
 <img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image" style="width:50%; margin-left:26%;"/>
 <h3 align="center">A passionate Full-Stack Developer originally Cameroon, currently living in South Africa</h3>
