@@ -5,7 +5,9 @@
 <img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image" style="width:50%;" align="right"/>
 <h3 align="left">A passionate Full-Stack Developer originally from Cameroon, currently living in South Africa.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguendzana&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguendzana" style="max-width: 100%;align-top: -2rem;position: relative;top: 26px;"/> </p>
+<br />
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguendzana&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguendzana"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriguendzana" alt="rodriguendzana" /></a> </p>
 
