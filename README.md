@@ -2,7 +2,7 @@
   <h1 align="center">Hi , I'm Rodrigue Ndzana  <img src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=790b761149dd3164646538327db8756d8f90fb2400e623ff&rid=giphy.gif&ct=g" alt="Code Tag" style ="width:12%;margin-left:-10rem;"/></h1>
 </div>
 
-<img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image" style="width:50%; float:right;"/>
+<img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image" style="width:50%; float:'right';"/>
 <h3 align="center">A passionate Full-Stack Developer originally from Cameroon, currently living in South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguendzana&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguendzana" /> </p>
