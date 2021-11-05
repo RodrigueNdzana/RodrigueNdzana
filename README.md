@@ -5,8 +5,13 @@
 <img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image" style="width:50%;" align="right"/>
 
 <h3 align="left">A passionate Full-Stack Developer originally from Cameroon, currently living in South Africa.</h3>
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br /><br />
 - 🌱 I’m currently learning **Full Stack Web development**
 
 - 💬 Ask me about **anything around the area of development**
