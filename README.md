@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigue Ndzana</h1> <img src="https://miro.medium.com/max/1024/1*cZCRTak_QRditY8TOqOpjA.gif" alt="Code Tag" style ="width:40px; height:40px"/>
+<h1 align="center">Hi 👋, I'm Rodrigue Ndzana  <img src="https://miro.medium.com/max/1024/1*cZCRTak_QRditY8TOqOpjA.gif" alt="Code Tag" style ="width:40px; height:40px"/> </h1> 
 
 <img src ="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="adding Image"/>
 <h3 align="center">A passionate Full-Stack Developer from Cameroon</h3>
